@@ -1,0 +1,2 @@
+git remote add origin git@github.com:Seasonzhang-0503/Hello-World-20220113C.git
+git push -u origin master
